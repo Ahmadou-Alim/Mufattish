@@ -113,4 +113,4 @@ PyQt6: Cross-platform GUI framework.
 psutil: Cross-platform process and system monitoring library.
 
 🧑‍💻 Author
-Ahmadou Alim Ibrahim — Mathematics and Computer Science Student at the University of Bangui.
+Ahmadou Alim Ibrahim — Physicist && Mathematics and Computer Science Student at the University of Bangui.
