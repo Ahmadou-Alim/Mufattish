@@ -88,7 +88,7 @@ Ensure Python 3.9 (or higher) and git are installed on your machine.
 
 2. Clone the Repository
 Bash
-git clone [https://github.com/your-username/mufattish.git](https://github.com/your-username/mufattish.git)
+git clone [https://github.com/Ahmadou-Alim/mufattish.git](https://github.com/Ahmadou-Alim/mufattish.git)
 cd mufattish
 3. Create a Virtual Environment (Recommended)
 Linux / macOS:
